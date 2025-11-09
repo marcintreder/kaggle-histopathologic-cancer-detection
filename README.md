@@ -8,7 +8,8 @@ The project follows a systematic, iterative approach to model development, start
 
 ## 📂 Project Structure
 
--   `Cancer_Detection_Project.ipynb`: The main Jupyter Notebook containing all the code, analysis, and visualizations.
+-   `histopathologic_cancer_detection.ipynb`: The main Jupyter Notebook containing all the code, analysis, and visualizations.
+-   `histopathologic_cancer_detection.pdf`: PDF with the output of the Jupyter Notebook (for easier review of the analysis)
 -   `submission.csv`: The final prediction file for the Kaggle competition leaderboard.
 -   `histopathologic-cancer-detection/`: The directory containing the training and test image data (not included in this repo due to size).
 
